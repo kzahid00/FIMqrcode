@@ -29,11 +29,12 @@ img {
 
 .heading {
     font-weight: 700;
+    color: hsl(218, 44%, 22%);
 }
 
 .content {
     font-weight: 400;
-    color: gray;
+    color: hsl(220, 15%, 55%);
     margin-top: -5px;
 }
 
